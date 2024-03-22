@@ -1,0 +1,17 @@
+Câu 1: Các cách để truy xuất toàn bộ dữ liệu trong một cột bất kỳ của DataFrame:
+
+Sử dụng cú pháp DataFrame['tên cột']
+Sử dụng cú pháp DataFrame.tên_cột
+Sử dụng phương thức DataFrame.loc[] hoặc DataFrame.iloc[] với chỉ số cột
+
+Câu 2: Để kiểm tra cột 'Country' có chứa ít nhất 2 quốc gia khác nhau hay không, bạn có thể sử dụng phương thức nunique() 
+để đếm số lượng giá trị duy nhất trong cột, sau đó so sánh với số lượng tổng của tất cả các hàng trong cột.
+
+Câu 3:
+C
+
+Câu 4:
+B
+
+Câu 5:
+C
